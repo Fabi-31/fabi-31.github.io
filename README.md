@@ -68,7 +68,6 @@ Example Learning Projects:
 [View Project Repository →](#)
 
 
-Add 1-2 sceenshots of dashboards or Python scripts
 
 
 ### Section 2 - Real-World Projects
@@ -91,8 +90,7 @@ Expected Results / Impact:
 - Better-targeted notifications → reduced fatigue, higher conversion
 - Contributes to user activation & retention
 
-Add here: Example model outputs, graphs, or Python code snippet.
 
-[View Project Repository →](#)
+[View Project Repository →](#) (coming soon)
 
 
