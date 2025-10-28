@@ -1,6 +1,6 @@
 # Data analysis/ Machine learning
 
-## 👋 About Me
+## About Me
 I’m a Business & Data Analyst passionate about digital innovation and data-driven solutions.  
 I combine business understanding and analytics to improve user engagement and product strategy.  
 Eager to keep learning and applying data analysis, visualization, and machine learning to real-world challenges.
@@ -65,7 +65,17 @@ Example Learning Projects:
 - Visualized data with Tableau
 
 
-[View Project Repository →](#)
+[View Project Repository →](#) 
+## lEARNING PROJECT 
+- [Excel dashboard] (https://github.com/fabi-31/Excel-Bike-sales-Dashboard)
+- [SQL projects] (https://github.com/fabi-31/Student-performance-analysis-SQL)
+  (https://github.com/fabi-31/EDA-Project-world-layoffs)
+  (https://github.com/fabi-31/EDA---payment-agreggator-)
+  [Python] (https://github.com/fabi-31/Python-project-bank-analysis-)
+
+
+  
+
 
 
 
@@ -93,4 +103,9 @@ Expected Results / Impact:
 
 [View Project Repository →](#) (coming soon)
 
+## Real-World projects
+- [SQL project] (https://github.com/fabi-31/GCCI-Trade-fair-)
+- [ML project] 
+  
+  
 
