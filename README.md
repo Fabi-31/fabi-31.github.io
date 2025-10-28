@@ -6,7 +6,7 @@ I combine business understanding and analytics to improve user engagement and pr
 Eager to keep learning and applying data analysis, visualization, and machine learning to real-world challenges.
 
 
-###Technical skills
+### Technical skills
 **Python** - pandas, matplotlib, sickit-learn
 **SQL** - Data exttraction, joins, filtering
 **Tableau** - Pivot tables, automation
@@ -66,12 +66,13 @@ Example Learning Projects:
 
 
 [View Project Repository →](#) 
-## lEARNING PROJECT 
+
 - [Excel dashboard] (https://github.com/fabi-31/Excel-Bike-sales-Dashboard)
-- [SQL projects] (https://github.com/fabi-31/Student-performance-analysis-SQL)
+- [SQL projects]
+  (https://github.com/fabi-31/Student-performance-analysis-SQL)
   (https://github.com/fabi-31/EDA-Project-world-layoffs)
   (https://github.com/fabi-31/EDA---payment-agreggator-)
-  [Python] (https://github.com/fabi-31/Python-project-bank-analysis-)
+- [Python project] (https://github.com/fabi-31/Python-project-bank-analysis-)
 
 
   
