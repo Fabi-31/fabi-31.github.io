@@ -84,7 +84,7 @@ Example Learning Projects:
 ### Section 2 - Real-World Projects
 
 
-##Project 2 – Machine Learning: Push Notification Timing
+### Project 2 – Machine Learning: Push Notification Timing
 
 Objective: Develop intelligent push notification system for engagement
 This project aimed to optimize user engagement by predicting the best time to send push notifications based on historical transaction data and behavioral patterns.
@@ -104,7 +104,7 @@ Expected Results / Impact:
 
 [View Project Repository →](#) (coming soon)
 
-## Real-World projects
+### Real-World projects
 - [SQL project] (https://github.com/fabi-31/GCCI-Trade-fair-)
 - [ML project] 
   
